@@ -1,0 +1,2 @@
+rootProject.name = 'NawaAI'
+include ':app'
